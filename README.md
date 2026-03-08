@@ -11,7 +11,7 @@ Building clean, scalable apps with strong fundamentals and modern tooling.
 👯 Open to collaborating on real-world iOS & backend projects  
 🤝 Looking for mentorship in large-scale system design & DevOps workflows  
 🌱 Currently learning Kubernetes, Docker & cloud-native observability  
-💬 Ask me about iOS, SwiftUI, Firebase, DevOps basics  
+💬 Ask me about iOS, SwiftUI, Firebase, DevOps
 ⚡ Fun fact: I believe strong fundamentals + modern tools = unbeatable combo
 
 ---
