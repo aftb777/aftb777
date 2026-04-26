@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aftaab Mulla
 
-🚀 Native iOS Developer | ⚙️ DevOps Enthusiast | ☁️ Cloud-Native Learner  
+🚀 Native iOS Developer | ⚙️ DevOps & Cloud | 🤖 AI/ML Explorer
 Building clean, scalable apps with strong fundamentals and modern tooling.
 
 ---
